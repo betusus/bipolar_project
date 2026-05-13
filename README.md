@@ -1,8 +1,5 @@
 # 🧠 MRI Görüntülerinden Bipolar Bozukluk Tespiti
 
-Pamukkale Üniversitesi — Betül Savaş (22253080)
-Danışman: Doç. Dr. Meriç Çetin
-
 ## Proje Hakkında
 T1-ağırlıklı yapısal MRI görüntülerinden EfficientNet-B0 
 derin öğrenme mimarisi kullanılarak Bipolar Bozukluk 
